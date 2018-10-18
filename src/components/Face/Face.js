@@ -17,7 +17,7 @@ const Face = ({imageUrl,box}) =>  {
     
       <div className = ' ma'>
      <div className='absolute center '>
-     <img id='inputimage' alt= '' src = {imageUrl} width='250px' height='20px'/>
+     <img id='inputimage' alt= '' src = {imageUrl} width='250px' height='300px'/>
       <div className='f3 link dim black underline pa3 pointer left'>{box.Name} </div>
        </div>
       </div>
