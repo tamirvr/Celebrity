@@ -9,7 +9,6 @@ const Logo = () =>  {
       <Tilt className="Tilt br1 shadow-2" options={{ max : 25 }} style={{ height: 150, width: 250 }} >
 <div className="Tilt-inner pa3"> <img style= {{ paddingBottom:'5px'}} alt = 'logo' src = {brain}/> </div>
 </Tilt>
-<div> "Enter a celebrity picture url and press " Detect" to have me figure out who it is! </div>
  
       </div>
     );
