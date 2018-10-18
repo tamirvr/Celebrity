@@ -12,6 +12,10 @@ const Rank = ({ name, entries }) => {
       </div>
       <div className = 'white f3'>
       images
+	  <div className = 'white f3'>
+      Find a celebrity picture and copy the url. As you press detect I will try to guess who you chose. 
+        
+      </div>
       </div>
     </div>
   );
