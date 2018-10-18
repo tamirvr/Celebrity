@@ -1,6 +1,5 @@
 import React from 'react';
 import './Face.css';
-import img from 'react-image-resizer';
 
 
 const Face = ({imageUrl,box}) =>  {
